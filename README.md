@@ -2,14 +2,14 @@
 ### My gender is Male ♂️ (100% straight)
 - 🎓 I'm currently studying in Computer Science (Junior) in Kasetsart University.
 - 📖 I'm currently learning about Korean (First Step Korean from coursera), Practical Deep Learning, Computer Animation.
-- 💡 I learned in these thing in university.:
+- 💡 I learned in these thing in university:
   1. Enterprise Resource Planning Software (Odoo)
   2. Interactive Computer Graphics (Python GLSL)
   3. System Analysis
   4. Python Environment and Labraries (Anaconda, numpy, pandas, .etc)
   5. Java, JavaFX
   6. HTML, CSS, PHP Laravel [This is not my comfort zone]
-- ✍️ I learned in these thing self-taught.:
+- ✍️ I learned in these thing self-taught:
   1. Terminal Customization (mostly WSL bash, zsh)
   2. Source Engine .cfg files configuration << This is my most expertise right now.
   3. C/C++ (Before I came to university)
