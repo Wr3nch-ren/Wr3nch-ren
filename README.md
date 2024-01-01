@@ -15,7 +15,7 @@
   3. C/C++ (Before I came to university)
   4. JetBrains Product (Visual Studio Code is fine, but I love JetBrains Product so much!)
 - 📫 How to reach me => Discord: wr3nch_ren, Personal Email: prayhyper@gmail.com
-- 🕹️ I'm interested in Ray Tracing Programming, 3D Programming, Game-related topics.
+- 🕹️ I'm interested in Ray Tracing Programming, 3D Programming, Game-related topics. << still newbie, lol.
 - 😅 Fun fact: I love cute stuff, cute dolls, cute arts but I can't making one in my own.
 - 🔴 (That means Computer Animation is not my comfort field, just letting you know!)
 <!--
