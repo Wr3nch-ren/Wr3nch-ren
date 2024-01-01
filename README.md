@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my personal repository!
 ### My gender is Male ♂️ (100% straight)
 - 🎓 I'm currently studying in Computer Science (Junior) in Kasetsart University.
-- 📖 I'm currently learning about Korean (First Step Korean from coursera), Practical Deep Learning, Computer Animation.
+- 📖 I'm currently learning about Korean (First Step Korean from coursera), Practical Deep Learning, Computer Animation and (self-taughting) Rust Language.
 - 💡 I learned in these thing in university:
   1. Enterprise Resource Planning Software (Odoo)
   2. Interactive Computer Graphics (Python GLSL)
