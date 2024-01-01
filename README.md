@@ -8,7 +8,7 @@
   3. System Analysis
   4. Python Environment and Labraries (Anaconda, numpy, pandas, .etc)
   5. Java, JavaFX
-  6. HTML, CSS, PHP Laravel [This is not my comfort zone]
+  6. HTML, CSS, PHP Laravel [This is not my comfort field]
 - ✍️ I learned in these thing self-taught:
   1. Terminal Customization (mostly WSL bash, zsh)
   2. Source Engine .cfg files configuration << This is my most expertise right now.
