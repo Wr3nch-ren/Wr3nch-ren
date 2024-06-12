@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my personal repository!
 ### My gender is Male ♂️ (100% straight)
-- 🎓 I'm currently studying in Computer Science (Entering Senior) in Kasetsart University.
+- 🎓 I'm currently studying in Computer Science (Senior, B.S.) in Kasetsart University.
 - 🔬 I'm currently researching in topic of Gaussian Splatting Automation GUI Framework as a Senior Project.
 - 📖 I'm currently learning about Korean (First Step Korean from coursera), Gaussian Splatting and Python GUI.
 - 💡 I learned in these thing in university:
