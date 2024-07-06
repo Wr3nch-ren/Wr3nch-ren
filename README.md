@@ -17,7 +17,7 @@
   2. Source Engine .cfg files configuration << This is my most expertise right now.
   3. C/C++, Algorithm (Before I came to university)
   4. JetBrains Product (Visual Studio Code is fine, but I love JetBrains Product so much!)
-  5. Linux Distribution Installation and Disk Partitioning (Arch Linux, Ubuntu (Pop_OS!))
+  5. Linux Distribution Installation and Disk Partitioning (Arch Linux, Ubuntu (Pop_OS!), Debian)
 - 📫 How to reach me => Discord: wr3nch_ren, Personal Email: prayhyper@gmail.com
 - 🕹️ I'm interested in Ray Tracing Programming, 3D Programming, Game-related topics. << still newbie, lol.
 - 😅 Fun fact: I love cute stuff, cute dolls, cute arts but I can't making one in my own.
