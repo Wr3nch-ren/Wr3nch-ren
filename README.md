@@ -4,7 +4,7 @@
 - 🔬 I'm currently researching in topic of Gaussian Splatting Automation Pipeline as a Senior Project, and AI Voice Changer based on VITS.
 - 📖 I'm currently learning about Korean (First Step Korean from coursera), Gaussian Splatting and PyTorch's Compabilities.
 - 💡 I learned in these thing in university:
-  1. Enterprise Resource Planning Software (Odoo CRM, Bussiness Plan)
+  1. Enterprise Resource Planning Software (Odoo CRM, Business Plan)
   2. Interactive Computer Graphics (Python GLSL)
   3. System Analysis and Design (UML Diagram, CRUD Table, Business Process, .etc)
   4. Practical Deep Learning (Python Tensorflow, Model Architecture, CUDA Toolkit, .etc)
