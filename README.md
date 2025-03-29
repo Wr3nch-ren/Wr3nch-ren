@@ -10,14 +10,15 @@
   4. Practical Deep Learning (Python Tensorflow, Model Architecture, CUDA Toolkit, .etc)
   5. Python Environment and Labraries (Anaconda, numpy, pandas, .etc)
   6. Computer Animation (Blender, Motion Capture, Weight Painting, .etc)
-  7. Java, JavaFX, Maven, MySQL, Docker, WSL2
-  8. HTML, CSS (Tailwind), PHP (Laravel, Blade) [This is not my comfort field]
+  7. Information/Data Quality Management
+  8. Java, JavaFX, Maven, MySQL, Docker, WSL2
+  9. HTML, CSS (Tailwind), PHP (Laravel, Blade) [This is not my comfort field]
 - ✍️ I learned in these thing self-taught:
   1. Terminal Customization (Mostly WSL bash, zsh, rarely on fish.)
   2. Source Engine .cfg files configuration
   3. C/C++, Algorithm (Before I came to university)
   4. Linux Distribution Installation and Disk Partitioning (Arch Linux, Ubuntu (Pop_OS!), Debian, Fedora, VirtualBox)
-  5. Slurm bash job, Singularity Image (using Docker)
+  5. Slurm bash job, Singularity Image, Docker Image
 - 📫 How to reach me => Discord: wr3nch_ren, Personal Email: prayhyper@gmail.com
 - 🕹️ I'm interested in Ray Tracing Programming, 3D Programming, Game-related topics. << still newbie, lol.
 - 😅 Fun fact: I love cute stuff, cute dolls, cute arts but I can't making one in my own.
