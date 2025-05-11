@@ -1,5 +1,4 @@
 ### Hi there 👋 Welcome to my personal repository!
-### My gender is Male ♂️ (100% straight)
 - 🎓 I'm currently studying in Computer Science (Senior, B.S.) in Kasetsart University.
 - 🔬 I finished the implementation of Gaussian Splatting Automation Pipeline and AI Voice Changer based on VITS.
 - 📖 I'm currently learning English Essential Reading Skills to finish my graduation (Will finish around in June 2025).
@@ -19,7 +18,6 @@
   3. C/C++, Algorithm (Before I came to university)
   4. Linux Distribution Installation and Disk Partitioning (Arch Linux, Ubuntu (Pop_OS!), Debian, Fedora, VirtualBox)
   5. Slurm bash job, Apptainer (Singularity) Image, Docker Image, SSH Connection and File transfer (using paramiko, fabric, scp)
-- 📫 How to reach me => Discord: wr3nch_ren, Personal Email: prayhyper@gmail.com.
 - 🕹️ I'm interested in Ray Tracing Programming, 3D Programming, Game-related topics. << still newbie, lol.
 - 😅 Fun fact: I love cute stuff, cute dolls, cute arts but I can't making one in my own.
 
