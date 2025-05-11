@@ -19,7 +19,7 @@
   4. Linux Distribution Installation and Disk Partitioning (Arch Linux, Ubuntu (Pop_OS!), Debian, Fedora, VirtualBox)
   5. Slurm bash job, Apptainer (Singularity) Image, Docker Image, SSH Connection and File transfer (using paramiko, fabric, scp)
 - 🕹️ I'm interested in Ray Tracing Programming, 3D Programming, Game-related topics. << still newbie, lol.
-- 📫 Contact => Discord: wr3nch_ren, Personal Email: prayhyper@gmail.com
+- 📫 Personal Contact => Discord: wr3nch_ren, Personal Email: prayhyper@gmail.com, Steam Friend Code: 195682949
 - 😅 Fun fact: I love cute stuff, cute dolls, cute arts but I can't making one in my own.
 
 <!--
